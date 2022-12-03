@@ -4,9 +4,8 @@ Technical:
 Javascript, React
 
 To run the project:
-(1) npm init
-(2) npm i
-(3) npm start
+-  npm i
+- npm start
 
 Logic:
 
