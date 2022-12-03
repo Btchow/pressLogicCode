@@ -1,4 +1,4 @@
-Web developer coding test -- CHOW WING NAM
+Web developer coding test -- Betty
 
 Technical:
 Javascript, React
